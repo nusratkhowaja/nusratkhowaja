@@ -16,7 +16,7 @@
 
 ## Connect with Me:
 - LinkedIn
-- [GitHub Repository](https://gitfront.io/r/nusratjaffer/gY3nJS5qxDUd/Data-Science/)
+- [Portfolio Projects](https://gitfront.io/r/nusratjaffer/gY3nJS5qxDUd/Data-Science/)
 
 ## Languages and Tools:
 - Python 🌟
