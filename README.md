@@ -8,7 +8,7 @@
 
 👨‍💻 **GitHub Nebula**: My GitHub repository is a treasure trove, a cosmic library filled with the tales of my data explorations. Each project is a comet streaking across the sky—a mix of code, curiosity, and caffeine-fueled inspiration. Dive in and discover the wonders that await!
 
-- [Portfolio Projects](https://gitfront.io/r/nusratjaffer/gY3nJS5qxDUd/Data-Science/)
+- [Portfolio Projects]()
 
 💬 **Data Whisperer**: Got a burning question about data science? I'm all ears (and code)! Whether it's algorithms, visualizations, or crafting stories from data, I'll listen, decode, and respond with a cosmic touch. Let's embark on a journey of discovery together!
 
